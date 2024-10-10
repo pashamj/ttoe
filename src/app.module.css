@@ -1,0 +1,13 @@
+/*.page{*/
+/*    background-color: gray;*/
+
+/*}*/
+.game{
+    display: flex;
+    flex-direction:column;
+    width: 255px;
+    text-align: center;
+    align-items: center;
+    margin: 70px auto;
+    border: 1px solid #000000;
+}
